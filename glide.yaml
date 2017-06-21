@@ -1,0 +1,6 @@
+package: github.com/RealImage/rabbitmq-manage
+import:
+- package: github.com/urfave/cli
+  version: ~1.19.1
+- package: github.com/pkg/errors
+  version: ~0.8.0
